@@ -1,2 +1,2 @@
 # week-1
-Develop a GIS-based hydrological model integrating real-time sensors and satellite data to monitor watershed health, optimize water allocation, and visualize scenarios via an interactive dashboard—enhancing water-use efficiency, reducing scarcity, and informing sustainable policy decisions.
+The Water Resource Management System is a frontend-only web application developed using HTML, CSS, and JavaScript. It is designed to help users effectively monitor and manage water resources by recording daily water usage and visualizing trends in storage levels.
